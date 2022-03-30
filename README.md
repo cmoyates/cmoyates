@@ -9,8 +9,8 @@ Currently I'm trying to teach myself Flutter and Android app development by work
 I'm also looking to redesign my personal portfolio soon, but I haven't gotten started on that quite yet.
 
 ### How to reach me
-- Email: [cmoyates@gmail.com](mailto:cmoyates@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/cristopher-yates/
+- [cmoyates@gmail.com](mailto:cmoyates@gmail.com)
+- https://www.linkedin.com/in/cristopher-yates/
 
 
 <!--
