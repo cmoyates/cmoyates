@@ -2,7 +2,7 @@
 
 My name is Cris, and I'm a fullstack developer! I have experience with the React/Typescript/AWS stack on a professional level, and have worked on some personal projects with the likes of Python, Flutter, and Unity. I am currently seeking full-time employment.
 
-### I'm currently working on 
+### What I'm currently working on 
 
 Currently I'm trying to teach myself Flutter and Android app development by working on my "Recommended" app (name is still a work in progress).
 
