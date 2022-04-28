@@ -4,7 +4,7 @@ My name is Cris, and I'm a fullstack developer! I have experience with the React
 
 ### What I'm currently working on 
 
-Currently I'm trying to teach myself Flutter and Android app development by working on my "Recommended" app (name is still a work in progress).
+Currently I'm trying to figure out the logistics of creating a 2D roguelike game in Unity! I'm trying to make sure I have stuff planned out ahead of time to avoid headaches down the road.
 
 I'm also looking to redesign my personal portfolio soon, but I haven't gotten started on that quite yet.
 
