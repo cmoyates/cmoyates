@@ -4,7 +4,7 @@ My name is Cris, and I'm a fullstack developer! I have experience with the React
 
 ### What I'm currently working on 
 
-Currently I'm trying to figure out the logistics of creating a 2D roguelike game in Unity! I'm trying to make sure I have stuff planned out ahead of time to avoid headaches down the road.
+Currently I'm polishing up my [Re/Place](https://github.com/cmoyates/RePlace-Frontend) project, and after that I will be remaking my portfolio using something other than Flutter (probably [Svelte](https://svelte.dev/))!
 
 I'm also looking to redesign my personal portfolio soon, but I haven't gotten started on that quite yet.
 
